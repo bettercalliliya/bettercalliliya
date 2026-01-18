@@ -13,7 +13,6 @@
 
 ## 🥷 About Me
 - 🎓 **Computer Engineering** @ Nişantaşı University (Istanbul)  
-- 💡 Founder of **[bettercallninja](https://github.com/bettercallninja)** — building proxies, bots & strategy games  
 - 🧠 Researcher in **AI, NLP & Quantum-Inspired Neural Architectures**  
 - 🌍 Trilingual: English · Persian · Turkish  
 - 🎯 Mission: Crafting scalable systems & AI tools with global impact  
@@ -115,10 +114,10 @@
 ---
 
 ## 📦 Featured Projects
-- 🔌 [**PyRoxi**](https://github.com/bettercallninja/pyroxi) — High-performance async Python proxy library  
-- 🕹 [**Telegram Strategy Game Bot**](https://github.com/bettercallninja/Telegram-Strategic-GameBot) — Multiplayer war-simulation bot  
-- 🤖 [**TrumpBot**](https://github.com/bettercallninja/TrumpBot) — AI-powered Telegram bot for group engagement  
-- 📜 [**tg-textgame-bot**](https://github.com/bettercallninja/tg-textgame-bot) — Semi-automated RPG-style text game  
+- 🔌 [**PyRoxi**](https://github.com/bettercalliliya/pyroxi) — High-performance async Python proxy library  
+- 🕹 [**Telegram Strategy Game Bot**](https://github.com/bettercalliliya/Telegram-Strategic-GameBot) — Multiplayer war-simulation bot  
+- 🤖 [**TrumpBot**](https://github.com/bettercalliliya/TrumpBot) — AI-powered Telegram bot for group engagement  
+- 📜 [**tg-textgame-bot**](https://github.com/bettercalliliya/tg-textgame-bot) — Semi-automated RPG-style text game  
 
 ---
 
@@ -134,7 +133,7 @@
 <p align="center">
   <a href="https://t.me/tellmeninja"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/iliya-dindar-a4575b152"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/bettercallninja"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/bettercalliliya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
